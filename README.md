@@ -1,3 +1,3 @@
 # Sieve-of-Eratosthenes
-A algorithm (Sieve of Eratosthenes) that finds prime numbers in a range of number.
-Script accepts user input for an upper and lower bound.
+An algorithm (Sieve of Eratosthenes) that finds all prime numbers from 1 to some upper bound.
+Script accepts user input for an upper bound.
